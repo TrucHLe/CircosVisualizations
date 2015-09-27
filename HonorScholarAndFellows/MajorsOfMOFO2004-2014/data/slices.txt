@@ -1,0 +1,72 @@
+# Author: Truc Hien Thi Le
+# Date: 4.12.2015 
+# Circos Visualization of DePauw University's Management Fellows Program Alumni and Their Majors 2004-2014
+# Data retrieved from DePauw University's Office of Institutional Research
+
+
+anth 0 1
+
+biol 0 2
+
+blst 0 1
+
+comm 0 10
+
+csc 0 7
+
+cft 0 1
+
+econ 0 146
+
+engl 0 2
+
+engw 0 5
+
+fren 0 3
+
+ger 0 4
+
+hist 0 4
+
+math 0 5
+
+mma 0 1
+
+mdma 0 1
+
+pbus 0 1
+
+phil 0 2
+
+pols 0 11
+
+psy 0 1
+
+rel 0 1
+
+soci 0 1
+
+span 0 14
+
+mofo 0 1
+mofo 2 3
+mofo 4 4
+mofo 5 14
+mofo 15 21
+mofo 22 22
+mofo 23 168
+mofo 169 170
+mofo 171 175
+mofo 176 178
+mofo 179 182
+mofo 183 186
+mofo 187 191
+mofo 192 192
+mofo 193 193
+mofo 194 194
+mofo 195 196
+mofo 197 207
+mofo 208 208
+mofo 209 209
+mofo 210 210
+mofo 211 224

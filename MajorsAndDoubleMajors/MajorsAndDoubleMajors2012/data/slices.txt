@@ -1,0 +1,247 @@
+# Author: Truc Hien Thi Le
+# Date: 4.4.2015 
+# Circos Visualization of DePauw University's Majors and Double-Majors in 2012
+# Data retrieved from DePauw University's Office of Institutional Research
+
+
+anth 0 1
+anth 2 2
+anth 3 4
+anth 5 12
+
+arth 0 1
+arth 2 8
+
+arts 0 1
+arts 2 2
+arts 3 6
+
+bioc 0 1
+bioc 2 2
+bioc 3 5
+bioc 6 6
+bioc 7 7
+bioc 8 8
+bioc 9 27
+
+biol 0 1
+biol 2 2
+biol 3 3
+biol 4 4
+biol 5 5
+biol 6 33
+
+blst 0 1
+blst 2 4
+
+chem 0 1
+chem 2 5
+
+clst 0 1
+clst 2 3
+
+comm 0 1
+comm 2 4
+comm 5 5
+comm 6 6
+comm 7 7
+comm 8 8
+comm 9 9
+comm 10 10
+comm 11 11
+comm 12 59
+
+csc 0 2
+csc 3 3
+csc 4 6
+csc 7 7
+csc 8 8
+csc 9 25
+
+cft 0 1
+cft 2 2
+cft 3 8
+
+ersc 0 1
+
+asia 0 1
+
+econ 0 3
+econ 4 5
+econ 6 12
+econ 13 50
+
+educ 0 1
+educ 2 2
+educ 3 3
+educ 4 4
+educ 5 12
+
+
+engl 0 1
+engl 2 2
+engl 3 3
+engl 4 4
+engl 5 5
+engl 6 6
+engl 7 7
+engl 8 13
+
+engw 0 1
+engw 2 2
+engw 3 3
+engw 4 5
+engw 6 6
+engw 7 7
+engw 8 8
+engw 9 11
+engw 12 12
+engw 13 13
+engw 14 49
+
+geos 0 6
+
+film 0 2
+
+fren 0 3
+fren 4 4
+fren 5 5
+fren 6 6
+fren 7 7
+fren 8 8
+fren 9 9
+
+geol 0 3
+
+ger 0 1
+ger 2 2
+
+
+hist 0 1
+hist 2 2
+hist 3 3
+hist 4 5
+hist 6 6
+hist 7 7
+hist 8 20
+
+
+
+kmec 0 9
+
+
+kspe 0 14
+
+lat 0 1
+
+math 0 1
+math 2 4
+math 5 11
+math 12 12
+math 13 13
+math 14 14
+math 15 15
+math 16 16
+math 17 20
+
+bma 0 1
+
+mma 0 1
+mma 2 2
+mma 3 3
+mma 4 4
+mma 5 5
+mma 6 9
+
+
+
+mecg 0 3
+
+meig 0 3
+
+mbus 0 1
+
+pdub 0 1
+
+
+pmu 0 1
+pmu 2 2
+pmu 3 5
+pmu 6 6
+pmu 7 7
+pmu 8 10
+pmu 11 11
+pmu 12 12
+pmu 13 23
+
+pbus 0 1
+
+phil 0 1
+phil 2 2
+phil 3 3
+phil 4 4
+phil 5 10
+
+phys 0 1
+phys 2 4
+
+pols 0 1
+pols 2 2
+pols 3 3
+pols 4 4
+pols 5 5
+pols 6 6
+pols 7 7
+pols 8 27
+
+pren 0 1
+
+psy 0 1
+psy 2 2
+psy 3 3
+psy 4 4
+psy 5 5
+psy 6 6
+psy 7 9
+psy 10 10
+psy 11 13
+psy 14 34
+
+rel 0 1
+rel 2 2
+rel 3 3
+rel 4 4
+rel 5 6
+
+roml 0 1
+roml 2 3
+
+
+soci 0 1
+soci 2 2
+soci 3 3
+soci 4 20
+
+soca 0 1
+soca 2 9
+
+span 0 2
+span 3 3
+span 4 4
+span 5 5
+span 6 6
+span 7 7
+span 8 8
+span 9 9
+span 10 10
+span 11 11
+span 12 12
+span 13 15
+span 16 16
+span 17 22
+
+thea 0 1
+
+ws 0 1
+ws 2 2
+ws 3 3

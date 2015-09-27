@@ -1,0 +1,193 @@
+# Author: Truc Hien Thi Le
+# Date: 4.3.2015 
+# Circos Visualization of DePauw University's Majors and Double-Majors in 2007
+# Data retrieved from DePauw University's Office of Institutional Research
+
+
+
+engl 0 1 anth 0 1
+engw 0 1 anth 2 2
+mma 0 1 anth 3 3
+span 0 1 anth 4 4
+
+arts 0 1 arth 0 1
+chem 0 1 arth 2 2
+engw 2 2 arth 3 3
+
+arth 0 1 arts 0 1
+asia 0 1 arts 2 2
+psy 0 1 arts 3 3
+
+biol 0 1 bioc 0 1
+phil 0 1 bioc 2 2
+span 2 2 bioc 3 3
+
+bioc 0 1 biol 0 1
+phil 2 2 biol 2 2
+span 3 4 biol 3 4
+
+
+arth 2 2 chem 0 1
+engw 3 3 chem 2 2
+
+hist 0 1 clst 0 1
+
+asia 2 2 comm 0 1
+econ 0 3 comm 2 4
+engl 2 2 comm 5 5
+fren 0 1 comm 6 6
+soci 0 3 comm 7 9
+span 5 6 comm 10 11
+
+asia 3 3 csc 0 1
+econ 4 9 csc 2 7
+engl 3 3 csc 8 8
+math 0 2 csc 9 10
+phil 3 3 csc 11 11
+
+econ 10 10 cft 0 1
+ger 0 1 cft 2 2
+span 7 7 cft 3 3
+
+
+arts 2 2 asia 0 1
+comm 0 1 asia 2 2
+csc 0 1 asia 3 3
+
+comm 2 4 econ 0 3
+csc 2 7 econ 4 9
+cft 0 1 econ 10 10
+engw 4 4 econ 11 11
+fren 2 2 econ 12 12
+ger 2 2 econ 13 13
+lat 0 1 econ 14 14
+math 3 6 econ 15 18
+phil 4 5 econ 19 20
+pols 0 1 econ 21 21
+span 8 12 econ 22 26
+
+
+fren 3 3 eedu 0 1
+
+anth 0 1 engl 0 1
+comm 5 5 engl 2 2
+csc 8 8 engl 3 3
+fren 4 4 engl 4 4
+ger 3 4 engl 5 6
+pols 2 3 engl 7 8
+roml 0 1 engl 9 9
+span 13 13 engl 10 10
+
+anth 2 2 engw 0 1
+arth 3 3 engw 2 2
+chem 2 2 engw 3 3
+econ 11 11 engw 4 4
+hist 2 2 engw 5 5
+phil 6 6 engw 6 6
+thea 0 1 engw 7 7
+
+phil 7 7 geos 0 1
+
+
+comm 6 6 fren 0 1
+econ 12 12 fren 2 2
+eedu 0 1 fren 3 3
+engl 4 4 fren 4 4
+math 7 8 fren 5 6
+pols 4 4 fren 7 7
+soci 4 4 fren 8 8
+span 14 14 fren 9 9
+thea 2 2 fren 10 10
+
+
+cft 2 2 ger 0 1
+econ 13 13 ger 2 2
+engl 5 6 ger 3 4
+
+lat 2 2 grk 0 1
+
+clst 0 1 hist 0 1
+engw 5 5 hist 2 2
+russ 0 1 hist 3 3
+
+
+
+
+
+
+econ 14 14 lat 0 1
+grk 0 1 lat 2 2
+
+csc 9 10 math 0 2
+econ 15 18 math 3 6
+fren 5 6 math 7 8
+span 15 15 math 9 9
+
+rel 0 1 bma 0 1
+
+anth 3 3 mma 0 1
+
+
+
+
+
+
+
+
+span 16 16 pmu 0 1
+
+
+bioc 2 2 phil 0 1
+biol 2 2 phil 2 2
+csc 11 11 phil 3 3
+econ 19 20 phil 4 5
+engw 6 6 phil 6 6
+geos 0 1 phil 7 7
+psy 2 2 phil 8 8
+rel 2 2 phil 9 9
+
+pren 0 1 phys 0 1
+
+econ 21 21 pols 0 1
+engl 7 8 pols 2 3
+fren 7 7 pols 4 4
+soci 5 6 pols 5 6
+
+phys 0 1 pren 0 1
+
+arts 3 3 psy 0 1
+phil 8 8 psy 2 2
+soci 7 7 psy 3 3
+soca 0 1 psy 4 4
+span 17 18 psy 5 6
+
+bma 0 1 rel 0 1
+phil 9 9 rel 2 2
+
+engl 9 9 roml 0 1
+
+hist 3 3 russ 0 1
+
+comm 7 9 soci 0 3
+fren 8 8 soci 4 4
+pols 5 6 soci 5 6
+psy 3 3 soci 7 7
+span 19 19 soci 8 8
+
+psy 4 4 soca 0 1
+
+anth 4 4 span 0 1
+bioc 3 3 span 2 2
+biol 3 4 span 3 4
+comm 10 11 span 5 6
+cft 3 3 span 7 7
+econ 22 26 span 8 12
+engl 10 10 span 13 13
+fren 9 9 span 14 14
+math 9 9 span 15 15
+pmu 0 1 span 16 16
+psy 5 6 span 17 18
+soci 8 8 span 19 19
+
+engw 7 7 thea 0 1
+fren 10 10 thea 2 2

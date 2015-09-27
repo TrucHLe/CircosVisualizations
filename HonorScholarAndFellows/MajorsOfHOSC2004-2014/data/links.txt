@@ -1,0 +1,102 @@
+# Author: Truc Hien Thi Le
+# Date: 4.12.2015 
+# Circos Visualization of DePauw University's Honor Scholar Program Alumni and Their Majors 2004-2014
+# Data retrieved from DePauw University's Office of Institutional Research
+
+
+hosc 0 6 anth 0 6
+
+hosc 7 10 arth 0 4
+
+hosc 11 12 arts 0 2
+
+hosc 13 18 bioc 0 6
+
+hosc 19 34 biol 0 16
+
+hosc 35 35 clst 0 1
+
+hosc 36 39 comm 0 4
+
+hosc 40 42 csc 0 3
+
+hosc 43 49 cft 0 7
+
+hosc 50 50 asia 0 1
+
+hosc 51 56 econ 0 6
+
+hosc 57 83 engl 0 27
+
+hosc 84 108 engw 0 25
+
+hosc 109 115 fren 0 7
+
+hosc 116 116 geol 0 1
+
+hosc 117 120 ger 0 4
+
+hosc 121 122 grk 0 2
+
+hosc 123 135 hist 0 13
+
+hosc 136 139 lat 0 4
+
+hosc 140 141 bma 0 2
+
+hosc 142 142 mma 0 1
+
+hosc 143 147 pmu 0 5
+
+hosc 148 161 phil 0 14
+
+hosc 162 162 phys 0 1
+
+hosc 163 177 pols 0 15
+
+hosc 178 190 psy 0 13
+
+hosc 191 194 rel 0 4
+
+hosc 195 196 roml 0 2
+
+hosc 197 198 soci 0 2
+
+hosc 199 200 soca 0 2
+
+hosc 201 213 span 0 13
+
+hosc 214 214 ws 0 1
+
+anth 0 6 hosc 0 6
+arth 0 4 hosc 7 10
+arts 0 2 hosc 11 12
+bioc 0 6 hosc 13 18
+biol 0 16 hosc 19 34
+clst 0 1 hosc 35 35
+comm 0 4 hosc 36 39
+csc 0 3 hosc 40 42
+cft 0 7 hosc 43 49
+asia 0 1 hosc 50 50
+econ 0 6 hosc 51 56
+engl 0 27 hosc 57 83
+engw 0 25 hosc 84 108
+fren 0 7 hosc 109 115
+geol 0 1 hosc 116 116
+ger 0 4 hosc 117 120
+grk 0 2 hosc 121 122
+hist 0 13 hosc 123 135
+lat 0 4 hosc 136 139
+bma 0 2 hosc 140 141
+mma 0 1 hosc 142 142
+pmu 0 5 hosc 143 147
+phil 0 14 hosc 148 161
+phys 0 1 hosc 162 162
+pols 0 15 hosc 163 177
+psy 0 13 hosc 178 190
+rel 0 4 hosc 191 194
+roml 0 2 hosc 195 196
+soci 0 2 hosc 197 198
+soca 0 2 hosc 199 200
+span 0 13 hosc 201 213
+ws 0 1 hosc 214 214

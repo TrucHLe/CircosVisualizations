@@ -1,0 +1,69 @@
+# Author: Truc Hien Thi Le
+# Date: 4.12.2015 
+# Circos Visualization of DePauw University's Science Research Fellows Alumni and Their Majors 2004-2014
+# Data retrieved from DePauw University's Office of Institutional Research
+
+
+srf 0 1 arts 0 1
+
+srf 2 51 bioc 0 50
+
+srf 52 89 biol 0 38
+
+srf 90 100 chem 0 11
+
+srf 101 101 clst 0 1
+
+srf 102 114 csc 0 13
+
+srf 115 115 engl 0 1
+
+srf 116 117 engw 0 2
+
+srf 118 118 geos 0 1
+
+srf 119 121 fren 0 3
+
+srf 122 126 geol 0 5
+
+srf 127 127 hist 0 1
+
+srf 128 128 kmec 0 1
+
+srf 129 129 kspe 0 1
+
+srf 130 133 math 0 4
+
+srf 134 134 pmu 0 1
+
+srf 135 139 phil 0 5
+
+srf 140 147 phys 0 8
+
+srf 148 149 pols 0 2
+
+srf 150 154 psy 0 5
+
+srf 155 163 span 0 9
+
+arts 0 1 srf 0 1
+bioc 0 50 srf 2 51
+biol 0 38 srf 52 89
+chem 0 11 srf 90 100
+clst 0 1 srf 101 101
+csc 0 13 srf 102 114
+engl 0 1 srf 115 115
+engw 0 2 srf 116 117
+geos 0 1 srf 118 118
+fren 0 3 srf 119 121
+geol 0 5 srf 122 126
+hist 0 1 srf 127 127
+kmec 0 1 srf 128 128
+kspe 0 1 srf 129 129
+math 0 4 srf 130 133
+pmu 0 1 srf 134 134
+phil 0 5 srf 135 139
+phys 0 8 srf 140 147
+pols 0 2 srf 148 149
+psy 0 5 srf 150 154
+span 0 9 srf 155 163

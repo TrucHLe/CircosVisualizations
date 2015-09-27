@@ -1,0 +1,48 @@
+# Author: Truc Hien Thi Le
+# Date: 4.4.2015 
+# Circos Visualization of DePauw University's Majors and Double-Majors in 2014
+# Data retrieved from DePauw University's Office of Institutional Research
+
+
+
+chr - ws Women's-Studies 0 1 black url=Circos/14ws.png
+chr - thea Theatre 0 1 black url=Circos/14thea.png
+chr - span Spanish 0 17 black url=Circos/14span.png
+chr - soca Sociology-&-Anthropology 0 3 black url=Circos/14soca.png
+chr - soci Sociology 0 24 black url=Circos/14soci.png
+chr - roml Romance-Languages 0 3 black url=Circos/14roml.png
+chr - rel Religious-Studies 0 7 black url=Circos/14rel.png
+chr - psy Psychology 0 30 black url=Circos/14psy.png
+chr - pren Pre-Engineering 0 2 black url=Circos/14pren.png
+chr - pols Political-Science 0 30 black url=Circos/14pols.png
+chr - phys Physics 0 6 black url=Circos/14phys.png
+chr - phil Philosophy 0 11 black url=Circos/14phil.png
+chr - pmu Performance.Music 0 16 black url=Circos/14pmu.png
+chr - mbus Music-Business 0 2 black url=Circos/14mbus.png
+chr - meig Music-Ed.Instr/General 0 4 black url=Circos/14meig.png
+chr - mma Music.BMA 0 10 black url=Circos/14mma.png
+chr - math Mathematics 0 19 black url=Circos/14math.png
+chr - lat Latin 0 1 black url=Circos/14lat.png
+chr - kspe Kinesiology.Sports/Exercises 0 13 black url=Circos/14kspe.png
+chr - kmec Kinesiology.Sports-Medicine 0 9 black url=Circos/14kmec.png
+chr - hist History 0 24 black url=Circos/14hist.png
+chr - ger German 0 1 black url=Circos/14ger.png
+chr - geol Geology 0 4 black url=Circos/14geol.png
+chr - fren French 0 5 black url=Circos/14fren.png
+chr - film Film-Studies 0 2 black url=Circos/14film.png
+chr - geos Environmental-Geoscience 0 7 black url=Circos/14geos.png
+chr - engw English-Writing 0 46 black url=Circos/14engw.png
+chr - engl English-Literature 0 16 black url=Circos/14engl.png
+chr - educ Education-Studies 0 3 black url=Circos/14educ.png
+chr - econ Economics 0 68 black url=Circos/14econ.png
+chr - ersc Earth-Sciences 0 1 black url=Circos/14ersc.png
+chr - cft Conflict-Studies 0 11 black url=Circos/14cft.png
+chr - csc Computer-Science 0 29 black url=Circos/14csc.png
+chr - comm Communication 0 85 black url=Circos/14comm.png
+chr - clst Classical-Civilization 0 4 black url=Circos/14clst.png
+chr - chem Chemistry 0 1 black url=Circos/14chem.png
+chr - biol Biology 0 37 black url=Circos/14biol.png
+chr - bioc Biochemistry 0 25 black url=Circos/14bioc.png
+chr - arts Art-Studio 0 5 black url=Circos/14arts.png
+chr - arth Art-History 0 5 black url=Circos/14arth.png
+chr - anth Anthropology 0 9 black url=Circos/14anth.png

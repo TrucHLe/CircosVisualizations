@@ -1,0 +1,256 @@
+# Author: Truc Hien Thi Le
+# Date: 4.3.2015 
+# Circos Visualization of DePauw University's Majors and Double-Majors in 2006
+# Data retrieved from DePauw University's Office of Institutional Research
+
+
+anth 0 1
+anth 2 5
+
+arth 0 2
+arth 3 3
+arth 4 5
+arth 6 6
+arth 7 7
+arth 8 11
+
+arts 0 2
+arts 3 3
+arts 4 4
+arts 5 5
+arts 6 13
+
+bioc 0 5
+bioc 6 23
+
+biol 0 1
+biol 2 2
+biol 3 3
+biol 4 4
+biol 5 6
+biol 7 7
+biol 8 9
+biol 10 48
+
+blst 0 1
+blst 2 3
+
+chem 0 1
+chem 2 8
+
+clst 0 1
+clst 2 2
+clst 3 3
+clst 4 9
+
+comm 0 1
+comm 2 2
+comm 3 3
+comm 4 4
+comm 5 8
+comm 9 9
+comm 10 10
+comm 11 11
+comm 12 12
+comm 13 13
+comm 14 18
+comm 19 79
+
+csc 0 1
+csc 2 3
+csc 4 5
+csc 6 6
+csc 7 14
+csc 15 15
+csc 16 34
+
+cft 0 1
+cft 2 3
+cft 4 5
+cft 6 6
+cft 7 11
+
+ersc 0 1
+
+asia 0 3
+
+econ 0 2
+econ 3 3
+econ 4 4
+econ 5 6
+econ 7 8
+econ 9 15
+econ 16 65
+
+educ 0 1
+
+eedu 0 1
+eedu 2 2
+eedu 3 20
+
+engl 0 2
+engl 3 3
+engl 4 4
+engl 5 5
+engl 6 6
+engl 7 7
+engl 8 8
+engl 9 9
+engl 10 10
+engl 11 24
+
+engw 0 1
+engw 2 3
+engw 4 4
+engw 5 5
+engw 6 9
+engw 10 11
+engw 12 15
+engw 16 16
+engw 17 18
+engw 19 20
+engw 21 21
+engw 22 22
+engw 23 60
+
+geos 0 1
+
+
+fren 0 1
+fren 2 2
+fren 3 3
+fren 4 4
+fren 5 8
+fren 9 9
+fren 10 11
+fren 12 12
+fren 13 13
+fren 14 14
+fren 15 15
+
+geol 0 5
+
+ger 0 1
+ger 2 3
+ger 4 4
+ger 5 5
+ger 6 8
+
+grk 0 1
+
+hist 0 1
+hist 2 2
+hist 3 3
+hist 4 4
+hist 5 5
+hist 6 6
+hist 7 7
+hist 8 24
+
+ktra 0 5
+
+kmed 0 1
+kmed 2 13
+
+
+
+kspe 0 12
+
+lat 0 1
+
+math 0 1
+math 2 9
+math 10 11
+math 12 12
+math 13 20
+
+bma 0 1
+
+mma 0 1
+mma 2 4
+
+mdma 0 1
+mdma 2 3
+
+
+
+meig 0 3
+
+mbus 0 1
+
+
+
+pmu 0 13
+
+
+phil 0 1
+phil 2 2
+phil 3 3
+phil 4 4
+phil 5 5
+phil 6 14
+
+phys 0 1
+phys 2 3
+
+pols 0 1
+pols 2 2
+pols 3 3
+pols 4 5
+pols 6 7
+pols 8 9
+pols 10 10
+pols 11 11
+pols 12 12
+pols 13 13
+pols 14 15
+pols 16 39
+
+pren 0 2
+
+psy 0 1
+psy 2 3
+psy 4 4
+psy 5 5
+psy 6 6
+psy 7 37
+
+rel 0 1
+rel 2 2
+rel 3 3
+rel 4 4
+rel 5 6
+
+roml 0 2
+
+russ 0 1
+
+soci 0 1
+soci 2 2
+soci 3 3
+soci 4 4
+soci 5 19
+
+soca 0 1
+soca 2 2
+soca 3 9
+
+span 0 5
+span 6 7
+span 8 12
+span 13 13
+span 14 20
+span 21 21
+span 22 22
+span 23 23
+span 24 24
+span 25 25
+span 26 27
+span 28 28
+span 29 29
+span 30 40
+
+thea 0 1
+
+ws 0 1
+ws 2 2

@@ -1,0 +1,42 @@
+# Author: Truc Hien Thi Le
+# Date: 4.12.2015 
+# Circos Visualization of DePauw University's Information Technology Associates Program Alumni and Their Majors 2004-2014
+# Data retrieved from DePauw University's Office of Institutional Research
+
+
+chr - thea Theatre 0 2 black url=Circos/0414itap-thea.png
+chr - span Spanish 0 12 black url=Circos/0414itap-span.png
+chr - soca Sociology-&-Anthropology 0 3 black url=Circos/0414itap-soca.png
+chr - soci Sociology 0 3 black url=Circos/0414itap-soci.png
+chr - roml Romance-Languages 0 2 black url=Circos/0414itap-roml.png
+chr - rel Religious-Studies 0 4 black url=Circos/0414itap-rel.png
+chr - psy Psychology 0 12 black url=Circos/0414itap-psy.png
+chr - pols Political-Science 0 5 black url=Circos/0414itap-pols.png
+chr - phys Physics 0 4 black url=Circos/0414itap-phys.png
+chr - phil Philosophy 0 5 black url=Circos/0414itap-phil.png
+chr - mma Music.BMA 0 4 black url=Circos/0414itap-mma.png
+chr - math Mathematics 0 17 black url=Circos/0414itap-math.png
+chr - lat Latin 0 2 black url=Circos/0414itap-lat.png
+chr - kspe Kinesiology.Sports/Exercises 0 1 black url=Circos/0414itap-kspe.png
+chr - kmec Kinesiology.Sports-Medicine 0 2 black url=Circos/0414itap-kmec.png
+chr - hist History 0 3 black url=Circos/0414itap-hist.png
+chr - ger German 0 3 black url=Circos/0414itap-ger.png
+chr - geol Geology 0 1 black url=Circos/0414itap-geol.png
+chr - fren French 0 4 black url=Circos/0414itap-fren.png
+chr - film Film-Studies 0 2 black url=Circos/0414itap-film.png
+chr - geos Environmental-Geoscience 0 2 black url=Circos/0414itap-geos.png
+chr - engw English-Writing 0 17 black url=Circos/0414itap-engw.png
+chr - engl English-Literature 0 6 black url=Circos/0414itap-engl.png
+chr - educ Education-Studies 0 1 black url=Circos/0414itap-educ.png
+chr - econ Economics 0 50 black url=Circos/0414itap-econ.png
+chr - asia East-Asian-Studies 0 3 black url=Circos/0414itap-asia.png
+chr - cft Conflict-Studies 0 3 black url=Circos/0414itap-cft.png
+chr - csc Computer-Science 0 61 black url=Circos/0414itap-csc.png
+chr - comm Communication 0 22 black url=Circos/0414itap-comm.png
+chr - clst Classical-Civilization 0 3 black url=Circos/0414itap-clst.png
+chr - biol Biology 0 16 black url=Circos/0414itap-biol.png
+chr - bioc Biochemistry 0 11 black url=Circos/0414itap-bioc.png
+chr - arts Art-Studio 0 5 black url=Circos/0414itap-arts.png
+chr - arth Art-History 0 5 black url=Circos/0414itap-arth.png
+chr - anth Anthropology 0 5 black url=Circos/0414itap-anth.png
+chr - itap ITAP 0 301 pms287c url=Circos/0414itap-itap.png

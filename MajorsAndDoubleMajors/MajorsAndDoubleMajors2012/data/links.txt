@@ -1,0 +1,208 @@
+# Author: Truc Hien Thi Le
+# Date: 4.4.2015 
+# Circos Visualization of DePauw University's Majors and Double-Majors in 2012
+# Data retrieved from DePauw University's Office of Institutional Research
+
+
+
+mma 0 1 anth 0 1
+pols 0 1 anth 2 2
+span 0 2 anth 3 4
+
+pmu 0 1 arth 0 1
+
+comm 0 1 arts 0 1
+psy 0 1 arts 2 2
+
+biol 0 1 bioc 0 1
+engl 0 1 bioc 2 2
+fren 0 3 bioc 3 5
+math 0 1 bioc 6 6
+mma 2 2 bioc 7 7
+pols 2 2 bioc 8 8
+
+bioc 0 1 biol 0 1
+fren 4 4 biol 2 2
+phil 0 1 biol 3 3
+pols 3 3 biol 4 4
+rel 0 1 biol 5 5
+
+hist 0 1 blst 0 1
+
+span 3 3 chem 0 1
+
+rel 2 2 clst 0 1
+
+arts 0 1 comm 0 1
+econ 0 3 comm 2 4
+educ 0 1 comm 5 5
+engl 2 2 comm 6 6
+ger 0 1 comm 7 7
+hist 2 2 comm 8 8
+pmu 2 2 comm 9 9
+soci 0 1 comm 10 10
+span 4 4 comm 11 11
+
+econ 4 5 csc 0 2
+hist 3 3 csc 3 3
+math 2 4 csc 4 6
+mma 3 3 csc 7 7
+psy 2 2 csc 8 8
+
+engw 0 1 cft 0 1
+psy 3 3 cft 2 2
+
+engw 2 2 ersc 0 1
+
+
+comm 2 4 econ 0 3
+csc 0 2 econ 4 5
+math 5 11 econ 6 12
+
+comm 5 5 educ 0 1
+engl 3 3 educ 2 2
+math 12 12 educ 3 3
+span 5 5 educ 4 4
+
+
+bioc 2 2 engl 0 1
+comm 6 6 engl 2 2
+educ 2 2 engl 3 3
+ger 2 2 engl 4 4
+pols 4 4 engl 5 5
+psy 4 4 engl 6 6
+rel 3 3 engl 7 7
+
+cft 0 1 engw 0 1
+ersc 0 1 engw 2 2
+fren 5 5 engw 3 3
+hist 4 5 engw 4 5
+lat 0 1 engw 6 6
+mma 4 4 engw 7 7
+pdub 0 1 engw 8 8
+pmu 3 5 engw 9 11
+pols 5 5 engw 12 12
+span 6 6 engw 13 13
+
+
+
+bioc 3 5 fren 0 3
+biol 2 2 fren 4 4
+engw 3 3 fren 5 5
+pmu 6 6 fren 6 6
+soca 0 1 fren 7 7
+span 7 7 fren 8 8
+
+
+comm 7 7 ger 0 1
+engl 4 4 ger 2 2
+
+
+blst 0 1 hist 0 1
+comm 8 8 hist 2 2
+csc 3 3 hist 3 3
+engw 4 5 hist 4 5
+pols 6 6 hist 6 6
+span 8 8 hist 7 7
+
+
+
+
+
+
+engw 6 6 lat 0 1
+
+bioc 6 6 math 0 1
+csc 4 6 math 2 4
+econ 6 12 math 5 11
+educ 3 3 math 12 12
+phys 0 1 math 13 13
+pren 0 1 math 14 14
+psy 5 5 math 15 15
+span 9 9 math 16 16
+
+psy 6 6 bma 0 1
+
+anth 0 1 mma 0 1
+bioc 7 7 mma 2 2
+csc 7 7 mma 3 3
+engw 7 7 mma 4 4
+span 10 10 mma 5 5
+
+
+
+
+
+
+engw 8 8 pdub 0 1
+
+
+arth 0 1 pmu 0 1
+comm 9 9 pmu 2 2
+engw 9 11 pmu 3 5
+fren 6 6 pmu 6 6
+phil 2 2 pmu 7 7
+psy 7 9 pmu 8 10
+span 11 11 pmu 11 11
+thea 0 1 pmu 12 12
+
+
+biol 3 3 phil 0 1
+pmu 7 7 phil 2 2
+psy 10 10 phil 3 3
+ws 0 1 phil 4 4
+
+math 13 13 phys 0 1
+
+anth 2 2 pols 0 1
+bioc 8 8 pols 2 2
+biol 4 4 pols 3 3
+engl 5 5 pols 4 4
+engw 12 12 pols 5 5
+hist 6 6 pols 6 6
+span 12 12 pols 7 7
+
+math 14 14 pren 0 1
+
+arts 2 2 psy 0 1
+csc 8 8 psy 2 2
+cft 2 2 psy 3 3
+engl 6 6 psy 4 4
+math 15 15 psy 5 5
+bma 0 1 psy 6 6
+pmu 8 10 psy 7 9
+phil 3 3 psy 10 10
+span 13 15 psy 11 13
+
+biol 5 5 rel 0 1
+clst 0 1 rel 2 2
+engl 7 7 rel 3 3
+roml 0 1 rel 4 4
+
+rel 4 4 roml 0 1
+
+
+comm 10 10 soci 0 1
+span 16 16 soci 2 2
+ws 2 2 soci 3 3
+
+fren 7 7 soca 0 1
+
+anth 3 4 span 0 2
+chem 0 1 span 3 3
+comm 11 11 span 4 4
+educ 4 4 span 5 5
+engw 13 13 span 6 6
+fren 8 8 span 7 7
+hist 7 7 span 8 8
+math 16 16 span 9 9
+mma 5 5 span 10 10
+pmu 11 11 span 11 11
+pols 7 7 span 12 12
+psy 11 13 span 13 15
+soci 2 2 span 16 16
+
+pmu 12 12 thea 0 1
+
+phil 4 4 ws 0 1
+soci 3 3 ws 2 2

@@ -1,0 +1,224 @@
+# Author: Truc Hien Thi Le
+# Date: 4.3.2015 
+# Circos Visualization of DePauw University's Majors and Double-Majors in 2010
+# Data retrieved from DePauw University's Office of Institutional Research
+
+
+anth 0 1
+anth 2 3
+anth 4 4
+anth 5 14
+
+arth 0 3
+
+arts 0 1
+arts 2 2
+arts 3 4
+
+bioc 0 1
+bioc 2 2
+bioc 3 30
+
+biol 0 1
+biol 2 2
+biol 3 3
+biol 4 6
+biol 7 48
+
+
+chem 0 5
+
+clst 0 1
+clst 2 2
+clst 3 7
+
+comm 0 1
+comm 2 3
+comm 4 5
+comm 6 6
+comm 7 7
+comm 8 8
+comm 9 9
+comm 10 10
+comm 11 16
+comm 17 74
+
+csc 0 1
+csc 2 2
+csc 3 3
+csc 4 4
+csc 5 5
+csc 6 11
+
+cft 0 1
+cft 2 3
+
+
+asia 0 1
+asia 2 2
+asia 3 4
+
+econ 0 2
+econ 3 4
+econ 5 7
+econ 8 8
+econ 9 13
+econ 14 55
+
+educ 0 2
+educ 3 5
+educ 6 15
+
+
+engl 0 2
+engl 3 3
+engl 4 5
+engl 6 6
+engl 7 8
+engl 9 18
+
+engw 0 1
+engw 2 3
+engw 4 5
+engw 6 7
+engw 8 10
+engw 11 11
+engw 12 43
+
+geos 0 1
+geos 2 3
+
+film 0 2
+film 3 4
+
+fren 0 1
+fren 2 2
+fren 3 3
+fren 4 4
+fren 5 5
+fren 6 6
+
+geol 0 3
+
+
+grk 0 1
+grk 2 2
+
+hist 0 1
+hist 2 2
+hist 3 4
+hist 5 5
+hist 6 6
+hist 7 9
+hist 10 10
+hist 11 28
+
+ktra 0 1
+
+
+kmec 0 1
+kmec 2 6
+
+
+kspe 0 10
+
+lat 0 1
+
+math 0 1
+math 2 4
+math 5 5
+math 6 6
+math 7 11
+
+
+mma 0 1
+mma 2 2
+mma 3 3
+mma 4 4
+mma 5 7
+
+
+
+mecg 0 3
+
+meig 0 6
+
+mbus 0 2
+
+pdub 0 1
+pdub 2 2
+pdub 3 3
+
+
+pmu 0 1
+pmu 2 2
+pmu 3 3
+pmu 4 4
+pmu 5 6
+pmu 7 7
+pmu 8 8
+pmu 9 9
+pmu 10 18
+
+
+phil 0 1
+phil 2 2
+phil 3 3
+phil 4 16
+
+phys 0 1
+phys 2 2
+phys 3 7
+
+pols 0 1
+pols 2 4
+pols 5 5
+pols 6 7
+pols 8 9
+pols 10 21
+
+pren 0 1
+
+psy 0 1
+psy 2 2
+psy 3 4
+psy 5 21
+
+rel 0 1
+rel 2 2
+rel 3 3
+rel 4 5
+
+roml 0 1
+
+russ 0 1
+russ 2 2
+
+soci 0 1
+soci 2 3
+soci 4 10
+
+soca 0 1
+soca 2 7
+
+span 0 2
+span 3 5
+span 6 11
+span 12 12
+span 13 17
+span 18 20
+span 21 22
+span 23 25
+span 26 26
+span 27 27
+span 28 28
+span 29 29
+span 30 31
+span 32 33
+span 34 35
+span 36 41
+
+thea 0 1
+
+ws 0 1
+ws 2 3

@@ -1,0 +1,30 @@
+# Author: Truc Hien Thi Le
+# Date: 4.12.2015 
+# Circos Visualization of DePauw University's Media Fellows Program Alumni and Their Majors 2004-2014
+# Data retrieved from DePauw University's Office of Institutional Research
+
+
+chr - span Spanish 0 12 black url=Circos/0414mefe-span.png
+chr - soca Sociology-&-Anthropology 0 1 black url=Circos/0414mefe-soca.png
+chr - soci Sociology 0 8 black url=Circos/0414mefe-soci.png
+chr - rel Religious-Studies 0 3 black url=Circos/0414mefe-rel.png
+chr - pols Political-Science 0 13 black url=Circos/0414mefe-pols.png
+chr - phil Philosophy 0 3 black url=Circos/0414mefe-phil.png
+chr - mbus Music-Business 0 1 black url=Circos/0414mefe-mbus.png
+chr - lat Latin 0 1 black url=Circos/0414mefe-lat.png
+chr - hist History 0 7 black url=Circos/0414mefe-hist.png
+chr - ger German 0 1 black url=Circos/0414mefe-ger.png
+chr - fren French 0 1 black url=Circos/0414mefe-fren.png
+chr - film Film-Studies 0 1 black url=Circos/0414mefe-film.png
+chr - engw English-Writing 0 52 black url=Circos/0414mefe-engw.png
+chr - engl English-Literature 0 11 black url=Circos/0414mefe-engl.png
+chr - econ Economics 0 2 black url=Circos/0414mefe-econ.png
+chr - asia East-Asian-Studies 0 1 black url=Circos/0414mefe-asia.png
+chr - cft Conflict-Studies 0 1 black url=Circos/0414mefe-cft.png
+chr - csc Computer-Science 0 1 black url=Circos/0414mefe-csc.png
+chr - comm Communication 0 68 black url=Circos/0414mefe-comm.png
+chr - clst Classical-Civilization 0 2 black url=Circos/0414mefe-clst.png
+chr - biol Biology 0 1 black url=Circos/0414mefe-biol.png
+chr - arth Art-History 0 1 black url=Circos/0414mefe-arth.png
+chr - anth Anthropology 0 1 black url=Circos/0414mefe-anth.png
+chr - mefe Media-Fellows-Program 0 193 pms287c url=Circos/0414mefe-mefe.png

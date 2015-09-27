@@ -1,0 +1,49 @@
+# Author: Truc Hien Thi Le
+# Date: 4.3.2015 
+# Circos Visualization of DePauw University's Majors and Double-Majors in 2008
+# Data retrieved from DePauw University's Office of Institutional Research
+
+
+chr - thea Theatre 0 4 black url=Circos/08thea.png
+chr - span Spanish 0 28 black url=Circos/08span.png
+chr - soca Sociology-&-Anthropology 0 11 black url=Circos/08soca.png
+chr - soci Sociology 0 20 black url=Circos/08soci.png
+chr - roml Romance-Languages 0 2 black url=Circos/08roml.png
+chr - rel Religious-Studies 0 7 black url=Circos/08rel.png
+chr - psy Psychology 0 48 black url=Circos/08psy.png
+chr - pren Pre-Engineering 0 2 black url=Circos/08pren.png
+chr - pols Political-Science 0 46 black url=Circos/08pols.png
+chr - phys Physics 0 7 black url=Circos/08phys.png
+chr - phil Philosophy 0 24 black url=Circos/08phil.png
+chr - pmu Performance.Music 0 11 black url=Circos/08pmu.png
+chr - mbus Music-Business 0 3 black url=Circos/08mbus.png
+chr - meig Music-Ed.Instrumental/General 0 4 black url=Circos/08meig.png
+chr - mma Music.BMA 0 4 black url=Circos/08mma.png
+chr - bma Music.BA 0 2 black url=Circos/08bma.png
+chr - math Mathematics 0 13 black url=Circos/08math.png
+chr - lat Latin 0 3 black url=Circos/08lat.png
+chr - kspe Kinesiology.Sports/Exercises 0 3 black url=Circos/08kspe.png
+chr - kmec Kinesiology.Sports-Medicine 0 15 black url=Circos/08kmec.png
+chr - ktra Kinesiology.Athletic-Training 0 6 black url=Circos/08ktra.png
+chr - hist History 0 26 black url=Circos/08hist.png
+chr - ger German 0 7 black url=Circos/08ger.png
+chr - geol Geology 0 8 black url=Circos/08geol.png
+chr - fren French 0 15 black url=Circos/08fren.png
+chr - geos Environmental-Geoscience 0 3 black url=Circos/08geos.png
+chr - engw English-Writing 0 44 black url=Circos/08engw.png
+chr - engl English-Literature 0 33 black url=Circos/08engl.png
+chr - eedu Elementary-Education 0 13 black url=Circos/08eedu.png
+chr - educ Education-Studies 0 9 black url=Circos/08educ.png
+chr - econ Economics 0 63 black url=Circos/08econ.png
+chr - asia East-Asian-Studies 0 6 black url=Circos/08asia.png
+chr - cft Conflict-Studies 0 9 black url=Circos/08cft.png
+chr - csc Computer-Science 0 15 black url=Circos/08csc.png
+chr - comm Communication 0 80 black url=Circos/08comm.png
+chr - clst Classical-Civilization 0 8 black url=Circos/08clst.png
+chr - chem Chemistry 0 4 black url=Circos/08chem.png
+chr - blst Black-Studies 0 3 black url=Circos/08blst.png
+chr - biol Biology 0 45 black url=Circos/08biol.png
+chr - bioc Biochemistry 0 29 black url=Circos/08bioc.png
+chr - arts Art-Studio 0 5 black url=Circos/08arts.png
+chr - arth Art-History 0 10 black url=Circos/08arth.png
+chr - anth Anthropology 0 11 black url=Circos/08anth.png

@@ -1,0 +1,38 @@
+# Author: Truc Hien Thi Le
+# Date: 4.12.2015 
+# Circos Visualization of DePauw University's Honor Scholar Program Alumni and Their Majors 2004-2014
+# Data retrieved from DePauw University's Office of Institutional Research
+
+chr - ws Women's-Studies 0 1 black url=Circos/0414hosc-ws.png
+chr - span Spanish 0 13 black url=Circos/0414hosc-span.png
+chr - soca Sociology-&-Anthropology 0 2 black url=Circos/0414hosc-soca.png
+chr - soci Sociology 0 2 black url=Circos/0414hosc-soci.png
+chr - roml Romance-Languages 0 2 black url=Circos/0414hosc-roml.png
+chr - rel Religious-Studies 0 4 black url=Circos/0414hosc-rel.png
+chr - psy Psychology 0 13 black url=Circos/0414hosc-psy.png
+chr - pols Political-Science 0 15 black url=Circos/0414hosc-pols.png
+chr - phys Physics 0 1 black url=Circos/0414hosc-phys.png
+chr - phil Philosophy 0 14 black url=Circos/0414hosc-phil.png
+chr - pmu Performance.Music 0 5 black url=Circos/0414hosc-pmu.png
+chr - mma Music.BMA 0 1 black url=Circos/0414hosc-mma.png
+chr - bma Music.BA 0 2 black url=Circos/0414hosc-bma.png
+chr - lat Latin 0 4 black url=Circos/0414hosc-lat.png
+chr - hist History 0 13 black url=Circos/0414hosc-hist.png
+chr - grk Greek 0 2 black url=Circos/0414hosc-grk.png
+chr - ger German 0 4 black url=Circos/0414hosc-ger.png
+chr - geol Geology 0 1 black url=Circos/0414hosc-geol.png
+chr - fren French 0 7 black url=Circos/0414hosc-fren.png
+chr - engw English-Writing 0 25 black url=Circos/0414hosc-engw.png
+chr - engl English-Literature 0 27 black url=Circos/0414hosc-engl.png
+chr - econ Economics 0 6 black url=Circos/0414hosc-econ.png
+chr - asia East-Asian-Studies 0 1 black url=Circos/0414hosc-asia.png
+chr - cft Conflict-Studies 0 7 black url=Circos/0414hosc-cft.png
+chr - csc Computer-Science 0 3 black url=Circos/0414hosc-csc.png
+chr - comm Communication 0 4 black url=Circos/0414hosc-comm.png
+chr - clst Classical-Civilization 0 1 black url=Circos/0414hosc-clst.png
+chr - biol Biology 0 16 black url=Circos/0414hosc-biol.png
+chr - bioc Biochemistry 0 6 black url=Circos/0414hosc-bioc.png
+chr - arts Art-Studio 0 2 black url=Circos/0414hosc-arts.png
+chr - arth Art-History 0 4 black url=Circos/0414hosc-arth.png
+chr - anth Anthropology 0 6 black url=Circos/0414hosc-anth.png
+chr - hosc Honor-Scholar-Program 0 214 pms287c url=Circos/0414hosc-hosc.png

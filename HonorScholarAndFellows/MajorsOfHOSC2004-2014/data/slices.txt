@@ -1,0 +1,101 @@
+# Author: Truc Hien Thi Le
+# Date: 4.12.2015 
+# Circos Visualization of DePauw University's Honor Scholar Program Alumni and Their Majors 2004-2014
+# Data retrieved from DePauw University's Office of Institutional Research
+
+anth 0 6
+
+arth 0 4
+
+arts 0 2
+
+bioc 0 6
+
+biol 0 16
+
+clst 0 1
+
+comm 0 4
+
+csc 0 3
+
+cft 0 7
+
+asia 0 1
+
+econ 0 6
+
+engl 0 27
+
+engw 0 25
+
+fren 0 7
+
+geol 0 1
+
+ger 0 4
+
+grk 0 2
+
+hist 0 13
+
+lat 0 4
+
+bma 0 2
+
+mma 0 1
+
+pmu 0 5
+
+phil 0 14
+
+phys 0 1
+
+pols 0 15
+
+psy 0 13
+
+rel 0 4
+
+roml 0 2
+
+soci 0 2
+
+soca 0 2
+
+span 0 13
+
+ws 0 1
+
+hosc 0 6
+hosc 7 10
+hosc 11 12
+hosc 13 18
+hosc 19 34
+hosc 35 35
+hosc 36 39
+hosc 40 42
+hosc 43 49
+hosc 50 50
+hosc 51 56
+hosc 57 83
+hosc 84 108
+hosc 109 115
+hosc 116 116
+hosc 117 120
+hosc 121 122
+hosc 123 135
+hosc 136 139
+hosc 140 141
+hosc 142 142
+hosc 143 147
+hosc 148 161
+hosc 162 162
+hosc 163 177
+hosc 178 190
+hosc 191 194
+hosc 195 196
+hosc 197 198
+hosc 199 200
+hosc 201 213
+hosc 214 214

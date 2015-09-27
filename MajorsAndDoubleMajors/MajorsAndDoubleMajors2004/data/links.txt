@@ -1,0 +1,163 @@
+# Author: Truc Hien Thi Le
+# Date: 4.2.2015 
+# Circos Visualization of DePauw University's Majors and Double-Majors in 2004
+# Data retrieved from DePauw University's Office of Institutional Research
+
+
+ger 0 1 anth 0 1
+
+comm 0 1 arth 0 1
+econ 0 1 arth 2 2
+engl 0 1 arth 3 3
+
+hist 0 1 arts 0 1
+
+math 0 1 bioc 0 1
+span 0 4 bioc 2 5
+
+comm 2 2 biol 0 1
+csc 0 1 biol 2 2
+econ 2 2 biol 3 3
+engl 2 2 biol 4 4
+fren 0 2 biol 5 6
+russ 0 1 biol 7 7
+span 5 6 biol 8 9
+
+pols 0 1 blst 0 1
+
+math 2 3 chem 0 2
+phil 0 1 chem 3 3
+
+engl 3 3 clst 0 1
+hist 2 2 clst 2 2
+
+arth 0 1 comm 0 1
+biol 0 1 comm 2 2
+engl 4 4 comm 3 3
+engw 0 2 comm 4 5
+ger 2 3 comm 6 7
+bma 0 1 comm 8 8
+pols 2 4 comm 9 11
+soci 0 1 comm 12 12
+
+biol 2 2 csc 0 1
+econ 3 3 csc 2 2
+engw 3 3 csc 3 3
+math 4 5 csc 4 5
+
+
+
+
+arth 2 2 econ 0 1
+biol 3 3 econ 2 2
+csc 2 2 econ 3 3
+fren 3 4 econ 4 5
+math 6 7 econ 6 7
+phil 2 2 econ 8 8
+span 7 9 econ 9 11
+
+
+
+arth 3 3 engl 0 1
+biol 4 4 engl 2 2
+clst 0 1 engl 3 3
+comm 3 3 engl 4 4
+bma 2 3 engl 5 6
+pols 5 5 engl 7 7
+span 10 10 engl 8 8
+ws 0 1 engl 9 9
+
+comm 4 5 engw 0 2
+csc 3 3 engw 3 3
+fren 5 6 engw 4 5
+hist 3 3 engw 6 6
+phil 3 3 engw 7 7
+soci 2 2 engw 8 8
+span 11 11 engw 9 9
+ws 2 2 engw 10 10
+
+
+
+biol 5 6 fren 0 2
+econ 4 5 fren 3 4
+engw 4 5 fren 5 6
+pols 6 6 fren 7 7
+
+
+anth 0 1 ger 0 1
+comm 6 7 ger 2 3
+pdub 0 1 ger 4 4
+
+
+arts 0 1 hist 0 1
+clst 2 2 hist 2 2
+engw 6 6 hist 3 3
+lat 0 1 hist 4 4
+bma 4 4 hist 5 5
+
+
+
+
+
+
+hist 4 4 lat 0 1
+
+bioc 0 1 math 0 1
+chem 0 2 math 2 3
+csc 4 5 math 4 5
+econ 6 7 math 6 7
+
+comm 8 8 bma 0 1
+engl 5 6 bma 2 3
+hist 5 5 bma 4 4
+psy 0 1 bma 5 5
+
+
+
+
+
+
+phil 4 4 mbus 0 1
+
+ger 4 4 pdub 0 1
+
+
+
+
+chem 3 3 phil 0 1
+econ 8 8 phil 2 2
+engw 7 7 phil 3 3
+mbus 0 1 phil 4 4
+
+
+blst 0 1 pols 0 1
+comm 9 11 pols 2 4
+engl 7 7 pols 5 5
+fren 7 7 pols 6 6
+
+
+bma 5 5 psy 0 1
+span 12 13 psy 2 3
+
+
+
+biol 7 7 russ 0 1
+
+comm 12 12 soci 0 1
+engw 8 8 soci 2 2
+span 14 14 soci 3 3
+
+span 15 15 soca 0 1
+
+bioc 2 5 span 0 4
+biol 8 9 span 5 6
+econ 9 11 span 7 9
+engl 8 8 span 10 10
+engw 9 9 span 11 11
+psy 2 3 span 12 13
+soci 3 3 span 14 14
+soca 0 1 span 15 15
+
+
+engl 9 9 ws 0 1
+engw 10 10 ws 2 2

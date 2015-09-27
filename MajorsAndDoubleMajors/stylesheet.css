@@ -1,0 +1,23 @@
+body
+{
+	margin: 5px 0;
+	font-family: sans-serif;
+}
+
+#yearTitle
+{
+	margin: 0;
+	font-size: 28px;
+}
+
+#doubleMajorPercentage
+{
+	margin: 0;
+	font-size: 18px;
+}
+
+#yearSlider
+{
+	margin: 2px 0;
+	width: 350px;
+}

@@ -1,0 +1,210 @@
+# Author: Truc Hien Thi Le
+# Date: 4.3.2015 
+# Circos Visualization of DePauw University's Majors and Double-Majors in 2006
+# Data retrieved from DePauw University's Office of Institutional Research
+
+hist 0 1
+
+arts 0 2
+comm 0 1
+engl 0 2
+engw 0 1
+hist 2 2
+
+arth 0 2
+comm 2 2
+engl 3 3
+pols 0 1
+
+span 0 5
+
+clst 0 1
+comm 3 3
+csc 0 1
+engl 4 4
+engw 2 3
+psy 0 1
+span 6 7
+
+engw 4 4
+
+math 0 1
+
+biol 0 1
+engw 5 5
+fren 0 1
+
+arth 3 3
+arts 3 3
+biol 2 2
+cft 0 1
+engw 6 9
+fren 2 2
+ger 0 1
+mdma 0 1
+pols 2 2
+soci 0 1
+span 8 12
+
+biol 3 3
+econ 0 2
+engw 10 11
+hist 3 3
+math 2 9
+pols 3 3
+
+comm 4 4
+ger 2 3
+pols 4 5
+span 13 13
+
+
+
+csc 2 3
+fren 3 3
+hist 4 4
+math 10 11
+pols 6 7
+span 14 20
+
+
+hist 5 5
+span 21 21
+
+arth 4 5
+arts 4 4
+biol 4 4
+fren 4 4
+phil 0 1
+rel 0 1
+span 22 22
+thea 0 1
+ws 0 1
+
+arth 6 6
+biol 5 6
+blst 0 1
+clst 2 2
+comm 5 8
+csc 4 5
+fren 5 8
+phil 2 2
+pols 8 9
+psy 2 3
+rel 2 2
+span 23 23
+
+
+
+clst 3 3
+comm 9 9
+econ 3 3
+engl 5 5
+engw 12 15
+ger 4 4
+mdma 2 3
+phil 3 3
+pols 10 10
+soci 2 2
+
+
+comm 10 10
+cft 2 3
+fren 9 9
+soca 0 1
+
+
+anth 0 1
+arth 7 7
+csc 6 6
+econ 4 4
+eedu 0 1
+bma 0 1
+pols 11 11
+
+
+span 24 24
+
+
+
+
+
+chem 0 1
+csc 7 14
+econ 5 6
+phys 0 1
+
+hist 6 6
+
+span 25 25
+
+comm 11 11
+fren 10 11
+
+
+
+
+
+
+
+
+
+engl 6 6
+engw 16 16
+fren 12 12
+pols 12 12
+rel 3 3
+
+math 12 12
+
+arts 5 5
+comm 12 12
+csc 15 15
+cft 4 5
+econ 7 8
+engw 17 18
+fren 13 13
+hist 7 7
+phil 4 4
+soci 3 3
+span 26 27
+
+
+biol 7 7
+engw 19 20
+rel 4 4
+soca 2 2
+span 28 28
+
+engl 7 7
+engw 21 21
+phil 5 5
+psy 4 4
+
+
+
+comm 13 13
+fren 14 14
+pols 13 13
+span 29 29
+
+ger 5 5
+psy 5 5
+
+bioc 0 5
+biol 8 9
+comm 14 18
+cft 6 6
+econ 9 15
+eedu 2 2
+engl 8 8
+engw 22 22
+kmed 0 1
+mma 0 1
+pols 14 15
+psy 6 6
+soci 4 4
+
+engl 9 9
+
+engl 10 10

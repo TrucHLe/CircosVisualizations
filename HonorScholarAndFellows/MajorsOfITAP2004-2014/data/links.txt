@@ -1,0 +1,111 @@
+# Author: Truc Hien Thi Le
+# Date: 4.12.2015 
+# Circos Visualization of DePauw University's Information Technology Associates Program Alumni and Their Majors 2004-2014
+# Data retrieved from DePauw University's Office of Institutional Research
+
+
+itap 0 5 anth 0 5
+
+itap 6 10 arth 0 5
+
+itap 11 15 arts 0 5
+
+itap 16 26 bioc 0 11
+
+itap 27 42 biol 0 16
+
+itap 43 45 clst 0 3
+
+itap 46 67 comm 0 22
+
+itap 68 128 csc 0 61
+
+itap 129 131 cft 0 3
+
+itap 132 134 asia 0 3
+
+itap 135 184 econ 0 50
+
+itap 185 185 educ 0 1
+
+itap 186 191 engl 0 6
+
+itap 192 208 engw 0 17
+
+itap 209 210 geos 0 2
+
+itap 211 212 film 0 2
+
+itap 213 216 fren 0 4
+
+itap 217 217 geol 0 1
+
+itap 218 220 ger 0 3
+
+itap 221 223 hist 0 3
+
+itap 224 225 kmec 0 2
+
+itap 226 226 kspe 0 1
+
+itap 227 228 lat 0 2
+
+itap 229 245 math 0 17
+
+itap 246 249 mma 0 4
+
+itap 250 254 phil 0 5
+
+itap 255 258 phys 0 4
+
+itap 259 263 pols 0 5
+
+itap 264 275 psy 0 12
+
+itap 276 279 rel 0 4
+
+itap 280 281 roml 0 2
+
+itap 282 284 soci 0 3
+
+itap 285 287 soca 0 3
+
+itap 288 299 span 0 12
+
+itap 300 301 thea 0 2
+
+anth 0 5 itap 0 5
+arth 0 5 itap 6 10
+arts 0 5 itap 11 15
+bioc 0 11 itap 16 26
+biol 0 16 itap 27 42
+clst 0 3 itap 43 45
+comm 0 22 itap 46 67
+csc 0 61 itap 68 128
+cft 0 3 itap 129 131
+asia 0 3 itap 132 134
+econ 0 50 itap 135 184
+educ 0 1 itap 185 185
+engl 0 6 itap 186 191
+engw 0 17 itap 192 208
+geos 0 2 itap 209 210
+film 0 2 itap 211 212
+fren 0 4 itap 213 216
+geol 0 1 itap 217 217
+ger 0 3 itap 218 220
+hist 0 3 itap 221 223
+kmec 0 2 itap 224 225
+kspe 0 1 itap 226 226
+lat 0 2 itap 227 228
+math 0 17 itap 229 245
+mma 0 4 itap 246 249
+phil 0 5 itap 250 254
+phys 0 4 itap 255 258
+pols 0 5 itap 259 263
+psy 0 12 itap 264 275
+rel 0 4 itap 276 279
+roml 0 2 itap 280 281
+soci 0 3 itap 282 284
+soca 0 3 itap 285 287
+span 0 12 itap 288 299
+thea 0 2 itap 300 301

@@ -1,0 +1,185 @@
+# Author: Truc Hien Thi Le
+# Date: 4.3.2015 
+# Circos Visualization of DePauw University's Majors and Double-Majors in 2010
+# Data retrieved from DePauw University's Office of Institutional Research
+
+
+hist 0 1 anth 0 1
+span 0 2 anth 2 3
+ws 0 1 anth 4 4
+
+
+engw 0 1 arts 0 1
+pmu 0 1 arts 2 2
+
+clst 0 1 bioc 0 1
+phil 0 1 bioc 2 2
+
+pmu 2 2 biol 0 1
+psy 0 1 biol 2 2
+soci 0 1 biol 3 3
+span 3 5 biol 4 6
+
+
+
+bioc 0 1 clst 0 1
+grk 0 1 clst 2 2
+
+asia 0 1 comm 0 1
+econ 0 2 comm 2 3
+engw 2 3 comm 4 5
+hist 2 2 comm 6 6
+mma 0 1 comm 7 7
+pols 0 1 comm 8 8
+psy 2 2 comm 9 9
+rel 0 1 comm 10 10
+span 6 11 comm 11 16
+
+fren 0 1 csc 0 1
+lat 0 1 csc 2 2
+math 0 1 csc 3 3
+mma 2 2 csc 4 4
+pdub 0 1 csc 5 5
+
+span 12 12 cft 0 1
+
+
+comm 0 1 asia 0 1
+mma 3 3 asia 2 2
+
+comm 2 3 econ 0 2
+engl 0 2 econ 3 4
+math 2 4 econ 5 7
+phil 2 2 econ 8 8
+span 13 17 econ 9 13
+
+engw 4 5 educ 0 2
+span 18 20 educ 3 5
+
+
+econ 3 4 engl 0 2
+fren 2 2 engl 3 3
+hist 3 4 engl 4 5
+pmu 3 3 engl 6 6
+span 21 22 engl 7 8
+
+arts 0 1 engw 0 1
+comm 4 5 engw 2 3
+educ 0 2 engw 4 5
+film 0 2 engw 6 7
+span 23 25 engw 8 10
+thea 0 1 engw 11 11
+
+mma 4 4 geos 0 1
+
+engw 6 7 film 0 2
+
+csc 0 1 fren 0 1
+engl 3 3 fren 2 2
+hist 5 5 fren 3 3
+pdub 2 2 fren 4 4
+phil 3 3 fren 5 5
+
+
+
+clst 2 2 grk 0 1
+rel 2 2 grk 2 2
+
+anth 0 1 hist 0 1
+comm 6 6 hist 2 2
+engl 4 5 hist 3 4
+fren 3 3 hist 5 5
+pmu 4 4 hist 6 6
+pols 2 4 hist 7 9
+span 26 26 hist 10 10
+
+
+
+span 27 27 kmec 0 1
+
+
+
+csc 2 2 lat 0 1
+
+csc 3 3 math 0 1
+econ 5 7 math 2 4
+phys 0 1 math 5 5
+span 28 28 math 6 6
+
+
+comm 7 7 mma 0 1
+csc 4 4 mma 2 2
+asia 2 2 mma 3 3
+geos 0 1 mma 4 4
+
+
+
+
+
+
+csc 5 5 pdub 0 1
+fren 4 4 pdub 2 2
+pols 5 5 pdub 3 3
+
+
+arts 2 2 pmu 0 1
+biol 0 1 pmu 2 2
+engl 6 6 pmu 3 3
+hist 6 6 pmu 4 4
+pols 6 7 pmu 5 6
+rel 3 3 pmu 7 7
+russ 0 1 pmu 8 8
+span 29 29 pmu 9 9
+
+
+bioc 2 2 phil 0 1
+econ 8 8 phil 2 2
+fren 5 5 phil 3 3
+
+math 5 5 phys 0 1
+pren 0 1 phys 2 2
+
+comm 8 8 pols 0 1
+hist 7 9 pols 2 4
+pdub 3 3 pols 5 5
+pmu 5 6 pols 6 7
+span 30 31 pols 8 9
+
+phys 2 2 pren 0 1
+
+biol 2 2 psy 0 1
+comm 9 9 psy 2 2
+span 32 33 psy 3 4
+
+comm 10 10 rel 0 1
+grk 2 2 rel 2 2
+pmu 7 7 rel 3 3
+
+
+pmu 8 8 russ 0 1
+soca 0 1 russ 2 2
+
+biol 3 3 soci 0 1
+span 34 35 soci 2 3
+
+russ 2 2 soca 0 1
+
+anth 2 3 span 0 2
+biol 4 6 span 3 5
+comm 11 16 span 6 11
+cft 0 1 span 12 12
+econ 9 13 span 13 17
+educ 3 5 span 18 20
+engl 7 8 span 21 22
+engw 8 10 span 23 25
+hist 10 10 span 26 26
+kmec 0 1 span 27 27
+math 6 6 span 28 28
+pmu 9 9 span 29 29
+pols 8 9 span 30 31
+psy 3 4 span 32 33
+soci 2 3 span 34 35
+
+engw 11 11 thea 0 1
+
+anth 4 4 ws 0 1

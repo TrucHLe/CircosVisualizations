@@ -1,0 +1,30 @@
+# Author: Truc Hien Thi Le
+# Date: 4.12.2015 
+# Circos Visualization of DePauw University's Management Fellows Program Alumni and Their Majors 2004-2014
+# Data retrieved from DePauw University's Office of Institutional Research
+
+
+
+chr - span Spanish 0 14 black url=Circos/0414mofo-span.png
+chr - soci Sociology 0 1 black url=Circos/0414mofo-soci.png
+chr - rel Religious-Studies 0 1 black url=Circos/0414mofo-rel.png
+chr - psy Psychology 0 1 black url=Circos/0414mofo-psy.png
+chr - pols Political-Science 0 11 black url=Circos/0414mofo-pols.png
+chr - phil Philosophy 0 2 black url=Circos/0414mofo-phil.png
+chr - pbus Performance-Buisiness 0 1 black url=Circos/0414mofo-pbus.png
+chr - mdma Music.Double-Major 0 1 black url=Circos/0414mofo-mdma.png
+chr - mma Music.BMA 0 1 black url=Circos/0414mofo-mma.png
+chr - math Mathematics 0 5 black url=Circos/0414mofo-math.png
+chr - hist History 0 4 black url=Circos/0414mofo-hist.png
+chr - ger German 0 4 black url=Circos/0414mofo-ger.png
+chr - fren French 0 3 black url=Circos/0414mofo-fren.png
+chr - engw English-Writing 0 5 black url=Circos/0414mofo-engw.png
+chr - engl English-Literature 0 2 black url=Circos/0414mofo-engl.png
+chr - econ Economics 0 146 black url=Circos/0414mofo-econ.png
+chr - cft Conflict-Studies 0 1 black url=Circos/0414mofo-cft.png
+chr - csc Computer-Science 0 7 black url=Circos/0414mofo-csc.png
+chr - comm Communication 0 10 black url=Circos/0414mofo-comm.png
+chr - blst Black-Studies 0 1 black url=Circos/0414mofo-blst.png
+chr - biol Biology 0 2 black url=Circos/0414mofo-biol.png
+chr - anth Anthropology 0 1 black url=Circos/0414mofo-anth.png
+chr - mofo Management-Fellows-Program 0 224 pms287c url=Circos/0414mofo-mofo.png

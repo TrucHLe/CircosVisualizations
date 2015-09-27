@@ -1,0 +1,29 @@
+# Author: Truc Hien Thi Le
+# Date: 4.12.2015 
+# Circos Visualization of DePauw University's Science Research Fellows Alumni and Their Majors 2004-2014
+# Data retrieved from DePauw University's Office of Institutional Research
+
+
+
+chr - span Spanish 0 9 black url=Circos/0414srf-span.png
+chr - psy Psychology 0 5 black url=Circos/0414srf-psy.png
+chr - pols Political-Science 0 2 black url=Circos/0414srf-pols.png
+chr - phys Physics 0 8 black url=Circos/0414srf-phys.png
+chr - phil Philosophy 0 5 black url=Circos/0414srf-phil.png
+chr - pmu Performance.Music 0 1 black url=Circos/0414srf-pmu.png
+chr - math Mathematics 0 4 black url=Circos/0414srf-math.png
+chr - kspe Kinesiology.Sports/Exercises 0 1 black url=Circos/0414srf-kspe.png
+chr - kmec Kinesiology.Sports-Medicine 0 1 black url=Circos/0414srf-kmec.png
+chr - hist History 0 1 black url=Circos/0414srf-hist.png
+chr - geol Geology 0 5 black url=Circos/0414srf-geol.png
+chr - fren French 0 3 black url=Circos/0414srf-fren.png
+chr - geos Environmental-Geoscience 0 1 black url=Circos/0414srf-geos.png
+chr - engw English-Writing 0 2 black url=Circos/0414srf-engw.png
+chr - engl English-Literature 0 1 black url=Circos/0414srf-engl.png
+chr - csc Computer-Science 0 13 black url=Circos/0414srf-csc.png
+chr - clst Classical-Civilization 0 1 black url=Circos/0414srf-clst.png
+chr - chem Chemistry 0 11 black url=Circos/0414srf-chem.png
+chr - biol Biology 0 38 black url=Circos/0414srf-biol.png
+chr - bioc Biochemistry 0 50 black url=Circos/0414srf-bioc.png
+chr - arts Art-Studio 0 1 black url=Circos/0414srf-arts.png
+chr - srf Science-Research-Fellows 0 163 pms287c url=Circos/0414srf-srf.png

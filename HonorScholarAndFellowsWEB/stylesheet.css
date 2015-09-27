@@ -1,0 +1,72 @@
+body
+{
+	margin: 0;
+	font-family: sans-serif;
+}
+
+
+#circosDisplay
+{
+	width: 700px;
+	margin: 70px 0 0 0;
+}
+
+#label
+{
+	text-align: center;
+	font-size: 28px;
+}
+
+
+#thumbnailsWrapper
+{
+	margin: 0;
+}
+
+.thumbnailWrapper
+{
+	display: inline-block;
+	margin: 1px;
+	width: 170px;
+	cursor: pointer;
+}
+
+.thumbnailLabels
+{
+	margin: 0;
+	width: 150px;
+	text-align: center;
+	font-size: 15px;
+}
+
+#thumbnailHosc
+{
+	background: url('Circos/0414logo-hosc-engl.png');
+	float: left;
+	width: 170px;
+	height: 170px;
+}
+
+#thumbnailMofo
+{
+	background: url('Circos/0414logo-mofo-econ.png');
+	float: left;
+	width: 170px;
+	height: 170px;
+}
+
+#thumbnailMefe
+{
+	background: url('Circos/0414logo-mefe-comm.png');
+	float: left;
+	width: 170px;
+	height: 170px;
+}
+
+#thumbnailSrf
+{
+	background: url('Circos/0414logo-srf-bioc.png');
+	float: left;
+	width: 170px;
+	height: 170px;
+}

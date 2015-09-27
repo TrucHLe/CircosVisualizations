@@ -1,0 +1,169 @@
+# Author: Truc Hien Thi Le
+# Date: 4.2.2015 
+# Circos Visualization of DePauw University's Majors and Double-Majors in 2005
+# Data retrieved from DePauw University's Office of Institutional Research
+
+
+biol 0 1 anth 0 1
+engw 0 1 anth 2 2
+pdub 0 1 anth 3 3
+
+comm 0 1 arth 0 1
+engw 2 3 arth 2 3
+rel 0 1 arth 4 4
+
+csc 0 1 arts 0 1
+
+csc 2 2 bioc 0 1
+phil 0 1 bioc 2 2
+span 0 1 bioc 3 3
+
+anth 0 1 biol 0 1
+csc 3 4 biol 2 3
+span 2 3 biol 4 5
+
+
+csc 5 5 chem 0 1
+
+econ 0 1 clst 0 1
+engl 0 1 clst 2 2
+
+arth 0 1 comm 0 1
+engl 2 2 comm 2 2
+engw 4 5 comm 3 4
+fren 0 2 comm 5 6
+span 4 7 comm 7 10
+
+arts 0 1 csc 0 1
+bioc 0 1 csc 2 2
+biol 2 3 csc 3 4
+chem 0 1 csc 5 5
+econ 2 5 csc 6 9
+engw 6 7 csc 10 11
+ger 0 1 csc 12 12
+math 0 2 csc 13 14
+pols 0 1 csc 15 15
+span 8 8 csc 16 16
+
+fren 3 3 cft 0 1
+pols 2 2 cft 2 2
+span 9 10 cft 3 4
+
+
+
+clst 0 1 econ 0 1
+csc 6 9 econ 2 5
+eedu 0 1 econ 6 6
+fren 4 4 econ 7 7
+hist 0 1 econ 8 8
+math 3 4 econ 9 10
+mdma 0 1 econ 11 11
+pols 3 5 econ 12 14
+span 11 11 econ 15 15
+
+
+econ 6 6 eedu 0 1
+
+clst 2 2 engl 0 1
+comm 2 2 engl 2 2
+ws 0 1 engl 3 3
+
+anth 2 2 engw 0 1
+arth 2 3 engw 2 3
+comm 3 4 engw 4 5
+csc 10 11 engw 6 7
+ger 2 2 engw 8 8
+pdub 2 2 engw 9 9
+pols 6 7 engw 10 11
+span 12 13 engw 12 13
+
+
+
+comm 5 6 fren 0 2
+cft 0 1 fren 3 3
+econ 7 7 fren 4 4
+kspe 0 1 fren 5 5
+psy 0 1 fren 6 6
+
+phys 0 1 geol 0 1
+
+csc 12 12 ger 0 1
+engw 8 8 ger 2 2
+
+
+econ 8 8 hist 0 1
+span 14 14 hist 2 2
+
+
+span 15 15 kmed 0 1
+
+
+
+fren 5 5 kspe 0 1
+
+pols 8 8 lat 0 1
+
+csc 13 14 math 0 2
+econ 9 10 math 3 4
+mdma 2 2 math 5 5
+phys 2 2 math 6 6
+
+
+
+econ 11 11 mdma 0 1
+math 5 5 mdma 2 2
+psy 2 2 mdma 3 3
+
+
+
+
+
+anth 3 3 pdub 0 1
+engw 9 9 pdub 2 2
+span 16 16 pdub 3 3
+
+
+
+
+bioc 2 2 phil 0 1
+
+geol 0 1 phys 0 1
+math 6 6 phys 2 2
+
+csc 15 15 pols 0 1
+cft 2 2 pols 2 2
+econ 12 14 pols 3 5
+engw 10 11 pols 6 7
+lat 0 1 pols 8 8
+span 17 18 pols 9 10
+
+
+fren 6 6 psy 0 1
+mdma 3 3 psy 2 2
+span 19 19 psy 3 3
+
+arth 4 4 rel 0 1
+span 20 20 rel 2 2
+
+
+
+
+
+bioc 3 3 span 0 1
+biol 4 5 span 2 3
+comm 7 10 span 4 7
+csc 16 16 span 8 8
+cft 3 4 span 9 10
+econ 15 15 span 11 11
+engw 12 13 span 12 13
+hist 2 2 span 14 14
+kmed 0 1 span 15 15
+pdub 3 3 span 16 16
+pols 9 10 span 17 18
+psy 3 3 span 19 19
+rel 2 2 span 20 20
+ws 2 2 span 21 21
+
+
+engl 3 3 ws 0 1
+span 21 21 ws 2 2

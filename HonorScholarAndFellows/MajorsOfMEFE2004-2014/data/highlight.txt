@@ -1,0 +1,75 @@
+# Author: Truc Hien Thi Le
+# Date: 4.12.2015 
+# Circos Visualization of DePauw University's Media Fellows Program Alumni and Their Majors 2004-2014
+# Data retrieved from DePauw University's Office of Institutional Research
+
+
+# mefe 0 1
+
+# mefe 2 2
+
+# mefe 3 3
+
+# mefe 4 5
+
+# mefe 6 73
+
+# mefe 74 74
+
+# mefe 75 75
+
+# mefe 76 76
+
+# mefe 77 78
+
+# mefe 79 89
+
+# mefe 90 141
+
+# mefe 142 142
+
+# mefe 143 143
+
+# mefe 144 144
+
+# mefe 145 151
+
+# mefe 152 152
+
+# mefe 153 153
+
+# mefe 154 156
+
+# mefe 157 169
+
+# mefe 170 172
+
+# mefe 173 180
+
+# mefe 181 181
+
+# mefe 182 193
+
+# anth 0 1
+# arth 0 1
+# biol 0 1
+# clst 0 2
+# comm 0 68
+# csc 0 1
+# cft 0 1
+# asia 0 1
+# econ 0 2
+# engl 0 11
+# engw 0 52
+# film 0 1
+# fren 0 1
+# ger 0 1
+# hist 0 7
+# lat 0 1
+# mbus 0 1
+# phil 0 3
+# pols 0 13
+# rel 0 3
+# soci 0 8
+# soca 0 1
+# span 0 12
